@@ -1,6 +1,3 @@
-import sys
-import io
-
 class Book:
     def __init__(self, title, page_count):
         self.title = title

@@ -1,6 +1,3 @@
-import sys
-import io
-
 class Shoe:
     def __init__(self, brand, size):
         self.brand = brand
